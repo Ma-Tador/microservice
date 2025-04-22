@@ -4,5 +4,5 @@ admin:
     street: "Account-QA-str.24"
     city: "qa"
   mail: 
-    - "qa@gmail.com"
+    - "{cipher}4c0f0099405c0f56a3fdbf8ebf72587f1e803c8da3d978d2d5944956342c7884"
     - "qa@gmail.com"
