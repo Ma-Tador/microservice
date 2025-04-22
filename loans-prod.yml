@@ -1,0 +1,8 @@
+admin:
+  phone: "12345"
+  location:
+    street: "Loans-Prodstr.24"
+    city: "prod"
+  mail: 
+    - "prod@gmail.com"
+    - "prod@gmail.com"

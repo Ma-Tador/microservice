@@ -1,0 +1,8 @@
+admin:
+  phone: "12345"
+  location:
+    street: "Cards-Defaultstr.24"
+    city: "Default"
+  mail: 
+    - "def1@gmail.com"
+    - "def2@gmail.com"
