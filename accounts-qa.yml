@@ -1,4 +1,4 @@
-admin:
+accounts:
   phone: "12345"
   location:
     street: "Account-QA-str.24"
