@@ -1,7 +1,7 @@
 admin:
   phone: "12345"
   location:
-    street: "Loans-QA-str.24"
+    street: "Loans-for-QA-str.24"
     city: "qa"
   mail: 
     - "qa@gmail.com"
