@@ -1,7 +1,7 @@
 admin:
   phone: "12345"
   location:
-    street: "Account-QA-str.24"
+    street: "Account-for-QA-str.24"
     city: "qa"
   mail: 
     - "{cipher}4c0f0099405c0f56a3fdbf8ebf72587f1e803c8da3d978d2d5944956342c7884"
